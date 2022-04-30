@@ -1,4 +1,4 @@
-# adega# 
+# adega
 
 Um site de uma adega.
 
